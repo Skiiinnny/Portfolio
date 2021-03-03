@@ -1,0 +1,14 @@
+body {
+    /* Importar imagen de fondo y ajustar su tamaño al navegador*/
+    background: url("./imagenes/background-img.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card-title {
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Roboto Mono', monospace;
+}
